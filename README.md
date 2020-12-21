@@ -8,10 +8,12 @@ I am a Year 3 Computer Science and Business Administration student studying in N
 
 [![Jolyn's github stats](https://github-readme-stats.vercel.app/api?username=jolynnn8D&show_icons=true&theme=kacho_ga&count_private=true&include_all_commits=true)](https://github.com/jolynnn8D/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolynnn8D&layout=compact&theme=kacho_ga)](https://github.com/jolynnn8D/github-readme-stats)
+
 <!--
 **jolynnn8D/jolynnn8D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolynnn8D&layout=compact&theme=kacho_ga)](https://github.com/jolynnn8D/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
