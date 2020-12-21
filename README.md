@@ -4,7 +4,7 @@
 
 I am a Year 3 Computer Science and Business Administration student studying in National University of Singapore (NUS). I love beautiful applications and dabble in web development and software engineering, but I also specialize in **Computer Security** and **Information Retrieval**. 
 
-## Github Stats 📊
+### Github Stats 📊
 
 [![Jolyn's github stats](https://github-readme-stats.vercel.app/api?username=jolynnn8D&show_icons=true&theme=kacho_ga&count_private=true&include_all_commits=true)](https://github.com/jolynnn8D/github-readme-stats)
 
