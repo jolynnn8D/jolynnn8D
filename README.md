@@ -2,7 +2,7 @@
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="25" title="LinkedIn" />](https://www.linkedin.com/in/jolyn-tan-488714b7/) 
 [<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="25" title="Email" />](mailto:jolyn.tan.sq@u.nus.edu)
 
-I am a Year 3 Computer Science and Business Administration student studying in National University of Singapore (NUS). I love beautiful applications and dabble in web development and software engineering, but I also specialize in **Computer Security** and **Information Retrieval**. 
+I am a Year 4 Computer Science and Business Administration student studying in National University of Singapore (NUS). I love beautiful applications and dabble in web development and software engineering, but I also specialize in **Computer Security** and **Information Retrieval**. 
 
 ### Github Stats 📊
 
