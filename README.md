@@ -4,11 +4,11 @@
 
 I am a Computer Science and Finance graduate from National University of Singapore (NUS). I love beautiful applications and dabble in web development and software engineering, but I also specialize in **Computer Security** and **Information Retrieval**. 
 
+<!--
 ### Github Stats 📊
 
 [![Jolyn's github stats](https://github-readme-stats.vercel.app/api?username=jolynnn8D&show_icons=true&theme=kacho_ga&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolynnn8D&layout=compact&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
